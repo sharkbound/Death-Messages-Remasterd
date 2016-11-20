@@ -1,0 +1,15 @@
+C:\Users\owner\Desktop\GitHub\RocketModPlugins\cloned_plugins\Death-Messages-Remasterd\bin\Debug\DeathMessagesRemastered.dll
+C:\Users\owner\Desktop\GitHub\RocketModPlugins\cloned_plugins\Death-Messages-Remasterd\bin\Debug\DeathMessagesRemastered.pdb
+C:\Users\owner\Desktop\GitHub\RocketModPlugins\cloned_plugins\Death-Messages-Remasterd\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\owner\Desktop\GitHub\RocketModPlugins\cloned_plugins\Death-Messages-Remasterd\bin\Debug\Assembly-CSharp.dll
+C:\Users\owner\Desktop\GitHub\RocketModPlugins\cloned_plugins\Death-Messages-Remasterd\bin\Debug\Assembly-UnityScript-firstpass.dll
+C:\Users\owner\Desktop\GitHub\RocketModPlugins\cloned_plugins\Death-Messages-Remasterd\bin\Debug\Rocket.API.dll
+C:\Users\owner\Desktop\GitHub\RocketModPlugins\cloned_plugins\Death-Messages-Remasterd\bin\Debug\Rocket.Core.dll
+C:\Users\owner\Desktop\GitHub\RocketModPlugins\cloned_plugins\Death-Messages-Remasterd\bin\Debug\Rocket.Unturned.dll
+C:\Users\owner\Desktop\GitHub\RocketModPlugins\cloned_plugins\Death-Messages-Remasterd\bin\Debug\UnityEngine.dll
+C:\Users\owner\Desktop\GitHub\RocketModPlugins\cloned_plugins\Death-Messages-Remasterd\bin\Debug\Newtonsoft.Json.dll
+C:\Users\owner\Desktop\GitHub\RocketModPlugins\cloned_plugins\Death-Messages-Remasterd\bin\Debug\Boo.Lang.dll
+C:\Users\owner\Desktop\GitHub\RocketModPlugins\cloned_plugins\Death-Messages-Remasterd\bin\Debug\UnityScript.Lang.dll
+C:\Users\owner\Desktop\GitHub\RocketModPlugins\cloned_plugins\Death-Messages-Remasterd\obj\Debug\DeathMessagesRemastered.csprojResolveAssemblyReference.cache
+C:\Users\owner\Desktop\GitHub\RocketModPlugins\cloned_plugins\Death-Messages-Remasterd\obj\Debug\DeathMessagesRemastered.dll
+C:\Users\owner\Desktop\GitHub\RocketModPlugins\cloned_plugins\Death-Messages-Remasterd\obj\Debug\DeathMessagesRemastered.pdb
